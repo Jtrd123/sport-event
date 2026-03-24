@@ -9,7 +9,7 @@ define('APP_ENV', 'local'); // local | production
 
 // ตั้งค่า DB (แก้ให้ตรงกับเครื่องของคุณ)
 define('DB_DRIVER', 'mysql');  // mysql | sqlite | pgsql
-define('DB_HOST', '127.0.0.1');
+define('DB_HOST', '1211');
 define('DB_PORT', '3306');
 define('DB_NAME', 'school_app');
 define('DB_USER', 'root');
