@@ -3,7 +3,7 @@
 define('APP_NAME', 'SPORT-EVENT');
 
 // *** แก้ path ให้ตรงโปรเจกต์ของคุณบน XAMPP ***
-define('BASE_URL', '/public'); // << สำคัญ: มีสแลชนำหน้า และไม่มีสแลชท้าย
+define('BASE_URL', 'sport-event/public'); // << สำคัญ: มีสแลชนำหน้า และไม่มีสแลชท้าย
 
 define('APP_ENV', 'local'); // local | production
 
